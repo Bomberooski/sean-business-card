@@ -13,7 +13,7 @@ export default function Info() {
 
     return (
         <div className="info">
-            <img src="\src\seancharicature.jpg" alt="Sean Logo" class="profile-img" />
+            <img src="https://www.seanslife.com/images/bizcard/seancharicature.jpg" alt="Sean Logo" class="profile-img" />
             <div className="info--data">
                 <h3>Sean Widmer</h3>
                 <h4>Frontend Developer</h4>
